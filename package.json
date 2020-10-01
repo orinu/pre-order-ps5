@@ -1,0 +1,20 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scriptps5.js",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "fs": "0.0.1-security",
+    "nodemailer": "^6.4.11",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "request": "^2.88.2",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
